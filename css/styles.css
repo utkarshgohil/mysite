@@ -1,0 +1,147 @@
+body{
+    background-color: #d2acee;
+    margin: 0;
+    text-align: center;
+    font-family: 'Source Serif Pro', serif;
+}
+
+h1{
+    
+    margin: 50px, auto, 0, auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.5rem;
+    
+}
+
+h2{
+    
+    font-family: 'Cormorant Upright', serif;
+    font-size: 2.2rem;
+}
+
+h3{
+    
+    font-family: 'Cormorant Upright', serif;
+    font-size: 1.8rem;
+}
+
+.top-container{
+   
+    position: relative;
+    padding-top: 100px;
+    margin-bottom: 100px;
+}
+
+.bottom-container{
+    width: 50%;
+    margin: 100px auto; 
+}
+
+.last-container{
+    font-size: 3rem;
+    margin: 100px auto;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 130px;
+
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    top: 400px;
+}
+
+.gif{
+    width: 10%;
+    position: fixed;   
+    top: 0;
+    left: 0;
+    
+}
+
+.fe{
+    text-decoration: underline;
+}
+
+.ac{
+    position: absolute;
+    right: 90px;
+    top: 50px;
+}
+
+.mountain{
+    width: 35%;
+}
+
+.myimg{
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+
+.mav{
+    font-size: 1.5rem;
+    line-height: 1.3;
+}
+
+hr{
+    border: dotted #807488 10px;
+    border-bottom: none;
+    width: 10%;
+}
+
+.btn {
+    background: #b834d9;
+    background-image: -webkit-linear-gradient(top, #b834d9, #782bb8);
+    background-image: -moz-linear-gradient(top, #b834d9, #782bb8);
+    background-image: -ms-linear-gradient(top, #b834d9, #782bb8);
+    background-image: -o-linear-gradient(top, #b834d9, #782bb8);
+    background-image: linear-gradient(to bottom, #b834d9, #782bb8);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    text-shadow: 1px 1px 3px #666666;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    border: solid #1f628d 2px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #cc66ff;
+    background-image: -webkit-linear-gradient(top, #cc66ff, #af62d6);
+    background-image: -moz-linear-gradient(top, #cc66ff, #af62d6);
+    background-image: -ms-linear-gradient(top, #cc66ff, #af62d6);
+    background-image: -o-linear-gradient(top, #cc66ff, #af62d6);
+    background-image: linear-gradient(to bottom, #cc66ff, #af62d6);
+    text-decoration: none;
+  }
+
+.btn1{
+margin-bottom: 100px;
+
+}
+
+.hire{
+    background-color: #b869f0;
+    padding: 20px 0 20px;
+    margin-top: 50px;
+    
+}
+
+a{
+    
+    font-family: 'Cormorant Upright', serif;
+    text-decoration: none;
+    font-size: 1.5rem;
+
+}
+
+a:hover{
+    color: #7bc2eb;
+}
